@@ -17,7 +17,7 @@
 		"method-override": "2.3.5",
 		"moment": "2.10.6",
 		"mongodb": "1.4.31",
-		"morgan": "1.6.1",
+		"morgan": "1.10.0",
 		"node-fs": "0.1.7",
 		"node-mandrill": "1.0.1",
 		"node-twitter-api": "1.6.2",
