@@ -23,7 +23,7 @@
 		"node-twitter-api": "1.6.2",
 		"q": "1.4.1",
 		"qs": "5.2.0",
-		"request": "2.67.0",
+		"request": "2.88.2",
 		"rpc.js": "0.4.3",
 		"socket.io": "1.3.7"
 	},
