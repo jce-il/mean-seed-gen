@@ -11,7 +11,7 @@
 		"cookie-parser": "1.4.0",
 		"crypto": "0.0.3",
 		"errorhandler": "1.4.2",
-		"express": "4.13.3",
+		"express": "4.19.2",
 		"googleapis": "2.1.6",
 		"lodash": "4.17.16",
 		"method-override": "2.3.5",
